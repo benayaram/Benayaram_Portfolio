@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Benayaram_Portfolio/static/css/main.bf538fe7.css",
-    "main.js": "/Benayaram_Portfolio/static/js/main.67bdde6c.js",
+    "main.js": "/Benayaram_Portfolio/static/js/main.3b8238d0.js",
     "static/media/HeroImage.jpg": "/Benayaram_Portfolio/static/media/HeroImage.7d9cbdf3fea2529bc0ff.jpg",
     "index.html": "/Benayaram_Portfolio/index.html",
     "main.bf538fe7.css.map": "/Benayaram_Portfolio/static/css/main.bf538fe7.css.map",
-    "main.67bdde6c.js.map": "/Benayaram_Portfolio/static/js/main.67bdde6c.js.map"
+    "main.3b8238d0.js.map": "/Benayaram_Portfolio/static/js/main.3b8238d0.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.67bdde6c.js"
+    "static/js/main.3b8238d0.js"
   ]
 }
