@@ -164,7 +164,7 @@ export default function Contact() {
             </form>
           </div>
           <footer>
-            <span>2026 {PROFILE.name}</span>
+            <span>&copy; 2026 {PROFILE.name}</span>
             <button className="back-top" onClick={backToTop} aria-label="Back to top">
               ↑
             </button>
